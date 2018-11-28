@@ -4,9 +4,12 @@
 
 <h4>Front End</h4>
 <span>cd desafio-cielo-front</span>
+<br/>
 <span>npm install</span>
+<br/>
 <span>npm start</span>
 
 <h4>Front End</h4>
 <span>cd desafio-cielo-back</span>
+<br/>
 <span>gradlew bootRun</span>
