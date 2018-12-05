@@ -9,7 +9,7 @@
 <br/>
 <span>npm start</span>
 
-<h4>Front End</h4>
+<h4>Back End</h4>
 <span>cd desafio-cielo-back</span>
 <br/>
 <span>gradlew bootRun</span>
